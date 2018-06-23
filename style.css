@@ -4,7 +4,6 @@ h1{
 }
 
 body{
-    background-attachment: fixed;
      line-height: 1.6;
     margin: 0px 0px 0px 0px;
     border-left:50px solid lightblue ;
@@ -26,17 +25,14 @@ p {
 }
 
 .post1 img{
-    width: 30%;
+    width: 25%;
     border: 2px solid red ;
-    float: right;
-}
-.post1{
-    background-color: aliceblue;
+    
 }
 
 .post img{
     border: 2px solid orange;
-    width: 100%;
+    width: 50%;
 }
 a:link {
     color: red;
@@ -50,7 +46,7 @@ a:visited {
     width: 100%;
     padding: 10px;
     border: 5px solid gray;
-    margin-top: 20px;
+    margin-top: 5px;
     color:lawngreen;
     background-color: black;
 }
